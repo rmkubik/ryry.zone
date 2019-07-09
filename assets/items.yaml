@@ -1,0 +1,23 @@
+- title: Hired at Twilio
+  description: Miraculously was perfect fit for the job.
+  category: success
+
+- title: Didn't win Air Console Contest
+  description: We got honorable mention which is cool. But we got no money.
+  category: failure
+
+- title: Didn't Ship Teambuilding
+  description: Tried to make a game with friends and didn't finish it.
+  category: failure
+
+- title: Shipped Wildfire Alpha
+  description: Got alpha version of Wildfire into people's hands.
+  category: success
+
+- title: Read Megafire
+  description: Book about international wildfire crisis. Realted to my Wildfire game.
+  category: book
+
+- title: Read Just Fucking Ship It
+  description: Book about shipping software products.
+  category: book

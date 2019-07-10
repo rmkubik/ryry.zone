@@ -21,3 +21,11 @@
 - title: Read Just Fucking Ship It
   description: Book about shipping software products.
   category: book
+
+- title: Watch Stranger Things 3
+  description: Supernatual Netflix Original show
+  category: show
+  
+- title: Cake Defense
+  description: Create a game about defending cake against pie.
+  category: game-making
